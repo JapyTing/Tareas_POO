@@ -1,0 +1,7 @@
+Existen dos tipos de excepeciones las comprobadas y no comprobadas
+Comprobadas: Representan errores  en la logica del programa o sitaciones excepcionales que generalmente pueden
+evitarse mediante una programacion adecuada (primer video de excepeciones) ARITHMETIC EXCEPECTION, NULLLPOINTER EXCPETION
+
+Checked Exceptions: Representan con condiciones excepcionales previsibles y recuperables  que pueden ocurrir durante
+la ejecucion por lo que Java exigigira que las excepeciones comprobadas sean manejadas por bloques try-catch
+declaradas en la firma del metodo utilzado con la palabra THROWS esta obliga a que la persona o el codigo que mande a llamar el codigo procese la excepecion IOEXCEPECTION SQLEXCEPTION , FIEL NOT FOUD
